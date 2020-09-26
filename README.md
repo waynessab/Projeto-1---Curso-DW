@@ -1,2 +1,3 @@
 # Desenvolvimento-web-curso
-Projetos realizados no curso de Desenvolvimento web completo - Udemy
+Projeto realizado baseado no curso de Desenvolvimento web completo - Udemy
+HTML
